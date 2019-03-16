@@ -1,5 +1,7 @@
 # Brief Report
 
+**Personal Contributions: Clustering** [Displaying Elbow Method](https://github.com/itsDZhang/Dota2__Data-Mining/blob/master/Clustering.ipynb) and [Displaying Centroids](https://github.com/itsDZhang/Dota2__Data-Mining/blob/master/Clustering-Copy.ipynb)
+
 ## Abstract
 
 DOTA2 is a team oriented multiplayer online battle arena (MOBA) game with 6.5 million monthly players published by Valve Corporation. In each match, two teams of five players select and control ‘heros’ which have unique attributes and play one of nine possible roles on a team.
