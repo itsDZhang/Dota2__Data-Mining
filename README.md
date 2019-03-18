@@ -1,6 +1,6 @@
 # Brief Report
 
-**Personal Contributions: Clustering** [Displaying Elbow Method](https://github.com/itsDZhang/Dota2__Data-Mining/blob/master/Clustering.ipynb) and [Displaying Centroids](https://github.com/itsDZhang/Dota2__Data-Mining/blob/master/Clustering-Copy.ipynb)
+**Personal Contributions: Clustering** [Displaying Elbow Method](https://github.com/itsDZhang/Dota2__Data-Mining/blob/master/Clustering-ElbowMethod.ipynb) and [Displaying Centroids](https://github.com/itsDZhang/Dota2__Data-Mining/blob/master/Clustering-Centroids.ipynb)
 
 ## Abstract
 
